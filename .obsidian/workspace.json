@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "8636b9f0c7b7860d",
+        "id": "ab09c5cddd9a5165",
         "type": "tabs",
         "children": [
           {
-            "id": "5d944b9e24836192",
+            "id": "52371d42bfbaaa83",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Project Planning/Final Project Ideas.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Project Planning/Final Project Ideas.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Project Planning/Final Project Ideas.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Project Planning/Final Project Ideas.md"
+              }
             }
           }
         ]
@@ -140,12 +148,19 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "c4db6a25a76ba7de",
+  "active": "52371d42bfbaaa83",
   "lastOpenFiles": [
-    "Templates/Lecture notes.md",
+    "Templates/Projects.md",
+    "Project Planning/Game recommendation chatbot.md",
+    "Project Planning/Final Project Ideas.md",
+    "Uni notes/Lecture notes/COM682 - Cloud/COM682 - Cloud.md",
+    "Templates/Idea linking.md",
+    "Uni notes/Lecture notes/COM682 - Cloud/Week 1 - Module Introduction.md",
+    "Templates/Journal entry.md",
+    "COM682.md",
     "Uni notes/Lecture notes/COM682 - Cloud/Week 1 - Module introduction.md",
+    "Templates/Lecture notes.md",
     "Uni notes/Lecture notes/COM682 - Cloud",
-    "Project Planning/Ideas.md",
     "README.md",
     "ObsidianVault/README.md",
     "ObsidianVault",
@@ -164,8 +179,6 @@
     "Starting organisation with Obsidian.md",
     "Personal Projects/Daily notes",
     "Templates/Daily note template.md",
-    "Templates/Journal entry.md",
-    "Templates/Idea linking.md",
     "Books",
     "Templates/Map of content.md",
     "Templates/Daily notes.md",
