@@ -1,0 +1,175 @@
+{
+  "main": {
+    "id": "e3e5dfd4a163e2a1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8636b9f0c7b7860d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5d944b9e24836192",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "940c6b889aed20e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "7c4637ee670f4741",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c4db6a25a76ba7de",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4c072ea9d56f056b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "65fd5d6a341c5dd7",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "686dd451fdade1fa",
+    "type": "split",
+    "children": [
+      {
+        "id": "91557211e8c1f10a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2d24c1acaf228b51",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "19cdffc64f658142",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1a82ed1f4632b9fc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "4e424e1db4c7187f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false
+    }
+  },
+  "active": "c4db6a25a76ba7de",
+  "lastOpenFiles": [
+    "Templates/Lecture notes.md",
+    "Uni notes/Lecture notes/COM682 - Cloud/Week 1 - Module introduction.md",
+    "Uni notes/Lecture notes/COM682 - Cloud",
+    "Project Planning/Ideas.md",
+    "README.md",
+    "ObsidianVault/README.md",
+    "ObsidianVault",
+    "Uni notes/Practical notes",
+    "Uni notes/Coursework Planning",
+    "Uni notes/Lecture notes",
+    "Personal Projects/Daily notes/2023/May/06-05-2023.md",
+    "Books/Bibliography.md",
+    "Books/Literature notes/The Anthropocene Reviewed.md",
+    "Templates/Literature notes.md",
+    "Books/Literature notes",
+    "Personal Projects/Daily notes/2023/May",
+    "Personal Projects/Daily notes/2023",
+    "Personal Projects/Daily notes/Untitled.md",
+    "Personal Projects/Daily notes/06-05-2023.md",
+    "Starting organisation with Obsidian.md",
+    "Personal Projects/Daily notes",
+    "Templates/Daily note template.md",
+    "Templates/Journal entry.md",
+    "Templates/Idea linking.md",
+    "Books",
+    "Templates/Map of content.md",
+    "Templates/Daily notes.md",
+    "Templates/Test.md",
+    "Template testing.md"
+  ]
+}
