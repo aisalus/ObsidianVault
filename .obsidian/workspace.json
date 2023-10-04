@@ -4,95 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "6c3fe7d2031c239f",
+        "id": "ed45aa95e661f20f",
         "type": "tabs",
         "children": [
           {
-            "id": "04f735d8a9fa2956",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Planning/Business opinion mining webapp.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "396bdb2e35c71c9e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Planning/Game recommendation chatbot.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f2952111f20df4be",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Planning/Machine learning chatbot for emotional support.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "25ae45b5b36c8e5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Planning/Medication reminder app.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "c8a65b2fcb23816e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Planning/Password Manager.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "316aed9d4fb49942",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Planning/Software piracy protection.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "71ebc35d6a376bcd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Project Planning/Toolkit.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "07715881f5a02e26",
+            "id": "d7ae53aac1700fca",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -103,8 +19,7 @@
               }
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,22 +148,29 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "07715881f5a02e26",
+  "active": "d7ae53aac1700fca",
   "lastOpenFiles": [
-    "Project Planning/Toolkit.md",
-    "Project Planning/Software piracy protection.md",
-    "Project Planning/Password Manager.md",
-    "Project Planning/Medication reminder app.md",
-    "Project Planning/Machine learning chatbot for emotional support.md",
+    "Uni notes/Lecture notes/COM682 - Cloud/Week 1 - Module Introduction.md",
+    "Uni notes/Lecture notes/COM682 - Cloud/Week 2 - Cloud Computing Concepts.md",
+    "Attachments/Pasted image 20231004154845.png",
+    "Attachments/Pasted image 20231004154817.png",
+    "Attachments/Pasted image 20231004154800.png",
+    "Attachments/Pasted image 20231004153339.png",
+    "Attachments/Pasted image 20231004150401.png",
+    "Attachments",
     "Project Planning/Business opinion mining webapp.md",
     "Project Planning/Game recommendation chatbot.md",
+    "Project Planning/Medication reminder app.md",
+    "Project Planning/Password Manager.md",
+    "Project Planning/Software piracy protection.md",
+    "Project Planning/Toolkit.md",
     "Project Planning/Final Project Ideas.md",
+    "Project Planning/Machine learning chatbot for emotional support.md",
     "README.md",
     "Templates/Map of content.md",
     "Templates/Projects.md",
     "Uni notes/Lecture notes/COM682 - Cloud/COM682 - Cloud.md",
     "Templates/Idea linking.md",
-    "Uni notes/Lecture notes/COM682 - Cloud/Week 1 - Module Introduction.md",
     "Templates/Journal entry.md",
     "COM682.md",
     "Uni notes/Lecture notes/COM682 - Cloud/Week 1 - Module introduction.md",
@@ -267,9 +189,6 @@
     "Personal Projects/Daily notes/2023/May",
     "Personal Projects/Daily notes/2023",
     "Personal Projects/Daily notes/Untitled.md",
-    "Personal Projects/Daily notes/06-05-2023.md",
-    "Starting organisation with Obsidian.md",
-    "Personal Projects/Daily notes",
-    "Books"
+    "Personal Projects/Daily notes"
   ]
 }
