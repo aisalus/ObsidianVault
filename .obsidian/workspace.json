@@ -13,7 +13,31 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Planning/Final Project Ideas.md",
+                "file": "Project Planning/Game recommendation chatbot.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "5e5a80457415f64a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Planning/Password Manager.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "abc27660a47aa1d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Project Planning/Software piracy protection.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Planning/Final Project Ideas.md",
+                "file": "Project Planning/Game recommendation chatbot.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Planning/Final Project Ideas.md",
+                "file": "Project Planning/Game recommendation chatbot.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +149,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Planning/Final Project Ideas.md"
+                "file": "Project Planning/Game recommendation chatbot.md"
               }
             }
           }
@@ -150,6 +174,10 @@
   },
   "active": "d7ae53aac1700fca",
   "lastOpenFiles": [
+    "Project Planning/Software piracy protection.md",
+    "Project Planning/Password Manager.md",
+    "Project Planning/Game recommendation chatbot.md",
+    "Project Planning/Final Project Ideas.md",
     "Uni notes/Lecture notes/COM682 - Cloud/Week 1 - Module Introduction.md",
     "Uni notes/Lecture notes/COM682 - Cloud/Week 2 - Cloud Computing Concepts.md",
     "Attachments/Pasted image 20231004154845.png",
@@ -159,12 +187,8 @@
     "Attachments/Pasted image 20231004150401.png",
     "Attachments",
     "Project Planning/Business opinion mining webapp.md",
-    "Project Planning/Game recommendation chatbot.md",
     "Project Planning/Medication reminder app.md",
-    "Project Planning/Password Manager.md",
-    "Project Planning/Software piracy protection.md",
     "Project Planning/Toolkit.md",
-    "Project Planning/Final Project Ideas.md",
     "Project Planning/Machine learning chatbot for emotional support.md",
     "README.md",
     "Templates/Map of content.md",
