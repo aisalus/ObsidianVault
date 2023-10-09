@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "ed45aa95e661f20f",
+        "id": "ba70bac990b28788",
         "type": "tabs",
         "children": [
           {
-            "id": "d7ae53aac1700fca",
+            "id": "7c7e8715264424dc",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Project Planning/Final Project Ideas.md",
+                "file": "Uni notes/Lecture notes/COM682 - Cloud/Week 3 -.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Project Planning/Final Project Ideas.md",
+                "file": "Uni notes/Lecture notes/COM682 - Cloud/Week 3 -.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Project Planning/Final Project Ideas.md",
+                "file": "Uni notes/Lecture notes/COM682 - Cloud/Week 3 -.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,11 +125,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Project Planning/Final Project Ideas.md"
+                "file": "Uni notes/Lecture notes/COM682 - Cloud/Week 3 -.md"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -148,10 +149,12 @@
       "table-editor-obsidian:Advanced Tables Toolbar": false
     }
   },
-  "active": "d7ae53aac1700fca",
+  "active": "7c7e8715264424dc",
   "lastOpenFiles": [
-    "Uni notes/Lecture notes/COM682 - Cloud/Week 1 - Module Introduction.md",
     "Uni notes/Lecture notes/COM682 - Cloud/Week 2 - Cloud Computing Concepts.md",
+    "Uni notes/Lecture notes/COM682 - Cloud/Week 1 - Module Introduction.md",
+    "Uni notes/Lecture notes/COM682 - Cloud/Week 3 -.md",
+    "Project Planning/Final Project Ideas.md",
     "Attachments/Pasted image 20231004154845.png",
     "Attachments/Pasted image 20231004154817.png",
     "Attachments/Pasted image 20231004154800.png",
@@ -164,7 +167,6 @@
     "Project Planning/Password Manager.md",
     "Project Planning/Software piracy protection.md",
     "Project Planning/Toolkit.md",
-    "Project Planning/Final Project Ideas.md",
     "Project Planning/Machine learning chatbot for emotional support.md",
     "README.md",
     "Templates/Map of content.md",
