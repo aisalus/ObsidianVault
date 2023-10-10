@@ -1,5 +1,6 @@
 ## Features
 - User asks for recommendations based on games they've played and enjoyed
+- History of games played and enjoyed stored as context
 - Chatbot chooses recommendations based on genre, ratings, game attributes and review sentiment
 - User rates the suggestion after playing to refine recommendations further
 - Should be tailored to the user - user accounts needed
@@ -20,6 +21,6 @@
 - If unable to use web scraping, more emphasis on use of MobyGames/IGDB API to compare attributes of games
   
 ## Overall thoughts
-- Use case:
-- Existing solutions: Quantic Foundry
+- Use case: Hobbyist game players looking for personalised game recommendations, without any bias from companies trying to advertise.
+- Existing solutions: Quantic Foundry video game recommendation engine - "Quantic Foundry is a market research company focused on gamer motivation." Three games enjoyed entered into engine, it outputs recommendations
   
