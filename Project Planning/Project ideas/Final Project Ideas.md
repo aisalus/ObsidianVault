@@ -2,7 +2,7 @@
 ## Tags: #FinalProject 
 # Ideas
 - [[Game recommendation chatbot]]
-- [[Password manager ]]
+- [[Password Manager]]
 - [[Medication reminder app]]
 - [[Toolkit]] 
 - [[Business opinion mining webapp]]
